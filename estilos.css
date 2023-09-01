@@ -1,0 +1,92 @@
+.maquetado{
+  border: solid 3px;
+  margin: 120px 0px 0px 0px;
+  background:white;
+}
+.primero{
+	diplay:inline-flex;
+}
+.acerca{
+  border: solid 3px;
+  background:#FF8A65;
+  transition:all 2s;
+}
+.acerca:hover{
+	background:#BF360C;
+	color:white;
+	transition:all;
+	transition-duration:2s;
+}
+.arriba{
+  background:#FFCC80;
+  transition:all 2s;
+}
+.arriba:hover{
+	background:#FF6F00;
+	color:white;
+	transition:all;
+	transition-duration:2s;
+  }
+.nombre{
+  border: solid 3px;
+  background:#A1887F;
+  transition:all 2s;
+  }
+.nombre:hover{
+	background:#3E2723;
+	color:white;
+	transition:all;
+	transition-duration:2s;
+  }
+.cajon{
+	diplay:inline-flex;
+}
+.izquierdo{
+  border: solid 3px;
+  background: #F48FB1;
+  height:315px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  transition:all 2s;
+  }
+ .izquierdo:hover{
+	background:#880E4F;
+	color:white;
+	transition:all;
+	transition-duration:2s;
+  }
+.centro{
+  border: solid 3px;
+  height:315px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  background:#CE93D8;
+  transition:all 2s;
+  }
+ .centro:hover{
+	background:#8E24AA;
+	color:white;
+	transition:all;
+	transition-duration:2s;
+  }
+table{
+	padding:50px;
+	font-size:18px;
+}
+.derecho{
+  border: solid 3px;
+  background:black;
+  height:315px;
+}
+.abajo{
+  border: solid 3px;
+  height:50px;
+  background:#80CBC4;
+  transition:all 2s;
+}
+.abajo:hover{
+	background:#004D40;
+	color:white;
+	transition:all;
+	transition-duration:2s;
+}
